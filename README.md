@@ -1,0 +1,4 @@
+# Project
+Project Repository...some notes on the files related to this project...
+
+The order form is incomplete as it relates to the main page because its main purpose was to demonstrate concepts more related to capturing user input and totaling quantities and prices rather than providing the whole list of items to choose from.  To do that would have involved merely copying and pasting the same code repeatedly in the item column and changing the item description.  Also, to be honest, the files for the order form were downloaded from a treehouse project which can be found here: https://css-tricks.com/multi-product-quantity-based-order-form/.  The code was then adapted to suit this particular project.  For that reason, the javaScript code contains some .php elements which I retained for use in the second half of this course (back-end) and for which (obviously) I had neither the knowledge nor skill to code on my own.
